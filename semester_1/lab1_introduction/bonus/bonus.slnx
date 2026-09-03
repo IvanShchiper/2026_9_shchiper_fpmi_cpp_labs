@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bonus/bonus.vcxproj" Id="6a8b4e98-2254-4cd7-bcf9-1764042f4cb2" />
+</Solution>
