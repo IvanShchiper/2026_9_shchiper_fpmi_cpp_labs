@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+E:\C++\лабы\lab2\lab2\lab2.cpp(21,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab2.vcxproj -> E:\C++\лабы\lab2\x64\Debug\lab2.exe
