@@ -6,6 +6,6 @@ int main()
     std::cout << "Enter N\n";
     std::cin >> N;
     std::cout << "Summ: " << N * N;
-
+    return 0;
 }
 

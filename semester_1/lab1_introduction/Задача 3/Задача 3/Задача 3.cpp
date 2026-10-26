@@ -13,4 +13,5 @@ int main()
         std::cout << "Polindrom";
     else
         std::cout << "Not polindrom";
+    return 0;
 }

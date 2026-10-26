@@ -16,5 +16,6 @@ int main()
         std::cout << "number is happy";
     else
         std::cout << "number isn't happy";
+    return 0;
 }
 
