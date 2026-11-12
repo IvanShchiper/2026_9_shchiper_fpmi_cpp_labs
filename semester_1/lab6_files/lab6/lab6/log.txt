@@ -1,0 +1,16 @@
+11/10/26 16:00:32| opening file input.txt
+11/10/26 16:00:32| file input.txt has been opened successfully 
+11/10/26 16:00:32| reading lines from input.txt
+11/10/26 16:00:32| got line : lowerCamelCase UpperCamelCase
+11/10/26 16:00:32| got line : lowerCamelCas
+11/10/26 16:00:32| got line : lowerCamelCase UpperCamelCase
+11/10/26 16:00:32| got line : lowerCamelCase UpperCamelCase
+11/10/26 16:00:32| got line : lowDfkljjDFGerCamelCas
+11/10/26 16:00:32| got line : LVBaCase UpperCamelCase
+11/10/26 16:00:32| got line : lowerCamel    CAas
+11/10/26 16:00:32| making CamelCase to snake_case
+11/10/26 16:00:32| opening file output1.txt
+11/10/26 16:00:32| file output1.txt has been opened successfully 
+11/10/26 16:00:32| writing lines to output1.txt
+11/10/26 16:00:32| new strings are written to output1.txt
+11/10/26 16:00:32| progam has ended with code 0 

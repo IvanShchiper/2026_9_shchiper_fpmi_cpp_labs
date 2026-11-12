@@ -1,0 +1,3 @@
+lowerCamelCase UpperCamelCase
+lowerCamelCas
+lowerCa CamelCase
